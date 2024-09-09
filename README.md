@@ -17,18 +17,18 @@ MTLGRN also pioneering attempts to simulate gene knockouts on bulk data by incor
 ![image]()
 
 ## Dependencies
-'''bash
+```bash
 conda env create -f environment.yml
-'''
+```
 
 ## Data
 To download the dataset required to run the transfer learning code from the link below:
 https://www.scidb.cn/en/s/VNvY3e
 
 ## Running
-'''bash
+```bash
 python main.py
-'''
+```
 
 
 # Citation
