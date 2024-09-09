@@ -32,7 +32,7 @@ python main.py
 
 
 # Citation
-If you use this code for your research, please cite our paper [Refining Computational Inference of Gene Regulatory Networks: Integrating Knockout Data within a Multi-Task Framework]([https://biorxiv.org/content/10.1101/2023.09.25.559244v1.abstract](https://academic.oup.com/bib/article/25/5/bbae361/7724463?login=false)
+If you use this code for your research, please cite our paper [Refining Computational Inference of Gene Regulatory Networks: Integrating Knockout Data within a Multi-Task Framework](https://academic.oup.com/bib/article/25/5/bbae361/7724463?login=false)
 ```bash
 @article{cui2024refining,
   title={Refining computational inference of gene regulatory networks: integrating knockout data within a multi-task framework},
