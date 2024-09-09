@@ -14,7 +14,7 @@ MTLGRN also pioneering attempts to simulate gene knockouts on bulk data by incor
 
 ## Workflow
 
-![image]()
+![image](https://github.com/wentaoStyle/MTLGRN/blob/main/fig1_framework.pdf)
 
 ## Dependencies
 ```bash
@@ -22,8 +22,8 @@ conda env create -f environment.yml
 ```
 
 ## Data
-To download the dataset required to run the transfer learning code from the link below:
-https://www.scidb.cn/en/s/VNvY3e
+To download the dataset required to run the code from the link below:
+https://www.scidb.cn/en/s/VNvY3e](https://www.scidb.cn/en/s/uIZfqu
 
 ## Running
 ```bash
